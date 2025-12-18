@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ✨
+
+My name is Soumyo, and I am your friendly neighbourhood programmer.
 
 <!--
 **ZortexG/ZortexG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
