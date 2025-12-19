@@ -2,6 +2,11 @@
 
 My name is Soumyo, and I am your friendly neighbourhood programmer.
 
+- Programming languages that I prefer are: C++, Python, JavaScript, TypeScript & SQL
+- Libraries: React, Node.js, NumPy, wxWidgets, etc.
+
+Goal? 
+- To be the very best ✨
 <!--
 **ZortexG/ZortexG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
