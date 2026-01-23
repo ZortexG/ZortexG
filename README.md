@@ -1,8 +1,8 @@
-<!--
+
 ## Hi there ✨
 
 My name is Soumyo, and I am your friendly neighbourhood programmer.
-
+<!--
 - Programming languages that I prefer are: C++, Python, JavaScript, TypeScript & SQL
 - Libraries: React, Node.js, NumPy, wxWidgets, etc.
 
